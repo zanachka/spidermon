@@ -1,7 +1,7 @@
 Release notes
 =============
 
-1.25.1 (unreleased)
+1.25.1 (2026-04-08)
 -------------------
 
 - bug: Fix compatibility with Scrapy 2.14+ where ``process_item`` was
